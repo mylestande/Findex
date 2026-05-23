@@ -43,14 +43,15 @@ Below is a detailed breakdown of every file included in this repository and its 
 
 1. **1. Clone the repository:**
    ```bash
-   git clone [https://github.com/mylestande/Findex.git](https://github.com/mylestande/Findex.git)
+   git clone https://github.com/mylestande/Findex.git
+   ```
 
 2. **Install dependencies:**
 
 Ensure you have Jupyter installed along with the required Python packages. You can install them via pip:
-
   ```bash
   pip install pandas numpy matplotlib seaborn statsmodels openpyxl
+```
 
 3. **Acquire the Data:**
 
@@ -60,7 +61,7 @@ Ensure you have Jupyter installed along with the required Python packages. You c
 
     Place this file directly in the root directory of this cloned repository (assuming you cloned the repo, there is no need for any of this in Step 3).
 
-4. Run the Notebook:
+4. **Run the Notebook:**
 
 Launch Jupyter Notebook and open the analysis file to run the cells and reproduce the findings:
 jupyter notebook Findex.ipynb
