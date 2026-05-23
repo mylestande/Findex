@@ -50,10 +50,10 @@ Below is a detailed breakdown of every file included in this repository and its 
 
 2. **Install dependencies:**
 
-Ensure you have Jupyter installed along with the required Python packages. You can install them via pip:
-  ```bash
-  pip install pandas numpy matplotlib seaborn statsmodels openpyxl
-```
+    Ensure you have Jupyter installed along with the required Python packages. You can install them via pip:
+      ```bash
+      pip install pandas numpy matplotlib seaborn statsmodels openpyxl
+    ```
 
 3. **Acquire the Data:**
 
@@ -65,10 +65,10 @@ Ensure you have Jupyter installed along with the required Python packages. You c
 
 4. **Run the Notebook:**
 
-Launch Jupyter Notebook and open the analysis file to run the cells and reproduce the findings:
-```bash
-jupyter notebook Findex.ipynb
-```
+    Launch Jupyter Notebook and open the analysis file to run the cells and reproduce the findings:
+    ```bash
+    jupyter notebook Findex.ipynb
+    ```
 
 ## 📄 License
 Data provided by the World Bank Group.
