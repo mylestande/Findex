@@ -33,7 +33,8 @@ Below is a detailed breakdown of every file included in this repository and its 
 
 ## 🛠️ Methodology & Tech Stack
 * **Language:** Python
-* **Libraries:** * `pandas` & `numpy` for data manipulation
+* **Libraries:**
+  * `pandas` & `numpy` for data manipulation
   * `matplotlib` & `seaborn` for data visualization
   * `statsmodels` for statistical analysis and linear modeling
 * **Key Metrics Analyzed:** * Percentage of males vs. females (age 15+) making or receiving digital payments.
@@ -64,7 +65,9 @@ Ensure you have Jupyter installed along with the required Python packages. You c
 4. **Run the Notebook:**
 
 Launch Jupyter Notebook and open the analysis file to run the cells and reproduce the findings:
+```bash
 jupyter notebook Findex.ipynb
+```
 
 ## 📄 License
 Data provided by the World Bank Group.
