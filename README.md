@@ -13,13 +13,13 @@ This project was completed as part of a university assignment.
 Below is a detailed breakdown of every file included in this repository and its specific purpose within the project:
 
 ### 1. The Code & Analysis
-* **`findex.ipynb`**
+* **`Findex.ipynb`**
   * **Purpose:** This is the core Jupyter Notebook containing the entire data science pipeline. 
   * **Contents:** It includes data loading, cleaning, exploratory data analysis (EDA), and statistical modeling. The code specifically filters data for 2017 and 2021, constructs the `DigitalPaymentGenderGap` variable, and utilizes libraries like `pandas`, `seaborn`, and `statsmodels` to extract insights.
   * **Note:** To run this notebook, you will need the raw dataset (`DatabankWide.xlsx`), which must be placed in the same directory.
 
 ### 2. The Final Output
-* **`Reflection of the Global Digital Payment Gender Gap.pdf`**
+* **`Reflection_of_the_Global_Digital_Payment_Gender_Gap.pdf`**
   * **Purpose:** The final critical reflection paper and research report.
   * **Contents:** This document synthesizes the findings from the Jupyter Notebook into a formal academic report. It discusses the context of global digitalization, analyzes the persistence of the 9% global gender gap in account ownership, details the methodology used, and offers critical insights and future recommendations based on the data.
 
