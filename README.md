@@ -26,7 +26,7 @@ Below is a detailed breakdown of every file included in this repository and its 
 ### 3. Documentation & Context
 * **`Findex_description.pdf`**
   * **Purpose:** The original project brief and assignment instructions.
-  * **Contents:** Details the overarching goals of the group project, expectations for data preparation and ML/statistical modeling, and provides background information on the Global Findex 2021 dataset's role in tracking financial resilience during the COVID-19 pandemic.
+  * **Contents:** Details the overarching goals of the project, expectations for data preparation and ML/statistical modeling, and provides background information on the Global Findex 2021 dataset's role in tracking financial resilience during the COVID-19 pandemic.
 * **`GlobalFindex2021-MicrodataCodebook.pdf`**
   * **Purpose:** The official data dictionary for the dataset.
   * **Contents:** An essential reference document that maps out all variable names, survey questions, and definitions (e.g., economy codes, demographic data, financial indicators) used within the Global Findex 2021 microdata. Use this to understand the raw variables referenced in the Jupyter Notebook.
@@ -37,12 +37,13 @@ Below is a detailed breakdown of every file included in this repository and its 
   * `pandas` & `numpy` for data manipulation
   * `matplotlib` & `seaborn` for data visualization
   * `statsmodels` for statistical analysis and linear modeling
-* **Key Metrics Analyzed:** * Percentage of males vs. females (age 15+) making or receiving digital payments.
+* **Key Metrics Analyzed:**
+  * Percentage of males vs. females (age 15+) making or receiving digital payments.
   * Year-over-year changes (2017 to 2021) in the gender gap.
 
 ## 🚀 How to Use This Repository
 
-1. **1. Clone the repository:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/mylestande/Findex.git
    ```
